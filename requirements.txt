@@ -1,0 +1,10 @@
+opencv-python
+eel
+numpy
+ultralytics
+pywebview
+PyQt5
+PyQtWebEngine
+PyQtWebKit
+Pillow
+Flask
