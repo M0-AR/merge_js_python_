@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 altgraph==0.17.4
 bottle==0.12.25
 bottle-websocket==0.2.9
@@ -69,3 +70,15 @@ whichcraft==0.6.1
 zipp==3.17.0
 zope.event==5.0
 zope.interface==6.1
+=======
+opencv-python
+eel
+numpy
+ultralytics
+pywebview
+PyQt5
+PyQtWebEngine
+PyQtWebKit
+Pillow
+Flask
+>>>>>>> d9ff5d3416381d535cabdec4c371c3915d6221e2
